@@ -1,2 +1,1 @@
-# PraktikumPemrograman1
-Praktikum Pemrograman 1 - Python (Semester 2)
+# Praktikum Pemrograman 1 (Semester 2)
