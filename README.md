@@ -10,5 +10,5 @@
 
 ### Instalasi
 1. Clone repository ini
-2. Jalankan 'pip install -r requirements.txt' untuk menginstall semua dependencies
-3. Execute program dengan 'python finale.py'
+2. Jalankan <samp>pip install -r requirements.txt</samp> untuk menginstall semua dependencies
+3. Execute program dengan <samp>python finale.py</samp>
